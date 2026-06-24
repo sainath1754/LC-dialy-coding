@@ -4,3 +4,4 @@ class Solution:
             temp=target-nums[i]
             if (temp in nums) and (nums.index(temp)!=i):
                 return [i,nums.index(temp)]
+ 
