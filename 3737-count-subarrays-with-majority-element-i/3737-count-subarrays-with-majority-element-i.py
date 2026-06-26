@@ -5,8 +5,6 @@ class Solution:
         for i in range(n):
             freq = 0
             for j in range(i, n):
-                if nums[j] == target:
-                    freq += 1
-                if 2 * freq > j - i + 1:
-                    cnt += 1
+                if nums[j] == target:freq += 1
+                if 2 * freq > j - i + 1:cnt += 1
         return cnt
