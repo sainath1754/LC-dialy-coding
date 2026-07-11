@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sainath1754/LC-dialy-coding/tree/master/0506-relative-ranks) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/sainath1754/LC-dialy-coding/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
