@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sainath1754/LC-dialy-coding/tree/master/0506-relative-ranks) |
+| [0704-binary-search](https://github.com/sainath1754/LC-dialy-coding/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/sainath1754/LC-dialy-coding/tree/master/0182-duplicate-emails) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sainath1754/LC-dialy-coding/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
