@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/sainath1754/LC-dialy-coding/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/sainath1754/LC-dialy-coding/tree/master/0704-binary-search) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/sainath1754/LC-dialy-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainath1754/LC-dialy-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/sainath1754/LC-dialy-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sainath1754/LC-dialy-coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainath1754/LC-dialy-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainath1754/LC-dialy-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/sainath1754/LC-dialy-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
