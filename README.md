@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sainath1754/LC-dialy-coding/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/sainath1754/LC-dialy-coding/tree/master/0035-search-insert-position) |
 | [0506-relative-ranks](https://github.com/sainath1754/LC-dialy-coding/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/sainath1754/LC-dialy-coding/tree/master/0704-binary-search) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sainath1754/LC-dialy-coding/tree/master/0001-two-sum) |
 | [0451-sort-characters-by-frequency](https://github.com/sainath1754/LC-dialy-coding/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
