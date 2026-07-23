@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sainath1754/LC-dialy-coding/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/sainath1754/LC-dialy-coding/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/sainath1754/LC-dialy-coding/tree/master/0704-binary-search) |
 ## Enumeration
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sainath1754/LC-dialy-coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sainath1754/LC-dialy-coding/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
