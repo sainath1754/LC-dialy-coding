@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/0628-maximum-product-of-three-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainath1754/LC-dialy-coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sainath1754/LC-dialy-coding/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainath1754/LC-dialy-coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sainath1754/LC-dialy-coding/tree/master/3536-maximum-product-of-two-digits) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainath1754/LC-dialy-coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
