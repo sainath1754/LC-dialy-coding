@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/sainath1754/LC-dialy-coding/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainath1754/LC-dialy-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sainath1754/LC-dialy-coding/tree/master/0451-sort-characters-by-frequency) |
+| [0844-backspace-string-compare](https://github.com/sainath1754/LC-dialy-coding/tree/master/0844-backspace-string-compare) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/sainath1754/LC-dialy-coding/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sainath1754/LC-dialy-coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sainath1754/LC-dialy-coding/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sainath1754/LC-dialy-coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainath1754/LC-dialy-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sainath1754/LC-dialy-coding/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sainath1754/LC-dialy-coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
