@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sainath1754/LC-dialy-coding/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/sainath1754/LC-dialy-coding/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainath1754/LC-dialy-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sainath1754/LC-dialy-coding/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sainath1754/LC-dialy-coding/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sainath1754/LC-dialy-coding/tree/master/0035-search-insert-position) |
 | [0506-relative-ranks](https://github.com/sainath1754/LC-dialy-coding/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sainath1754/LC-dialy-coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sainath1754/LC-dialy-coding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
