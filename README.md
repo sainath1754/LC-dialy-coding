@@ -162,4 +162,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainath1754/LC-dialy-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sainath1754/LC-dialy-coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sainath1754/LC-dialy-coding/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sainath1754/LC-dialy-coding/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sainath1754/LC-dialy-coding/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sainath1754/LC-dialy-coding/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sainath1754/LC-dialy-coding/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
