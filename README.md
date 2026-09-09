@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sainath1754/LC-dialy-coding/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/sainath1754/LC-dialy-coding/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sainath1754/LC-dialy-coding/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/sainath1754/LC-dialy-coding/tree/master/0200-number-of-islands) |
 | [0506-relative-ranks](https://github.com/sainath1754/LC-dialy-coding/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sainath1754/LC-dialy-coding/tree/master/0704-binary-search) |
@@ -169,10 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sainath1754/LC-dialy-coding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sainath1754/LC-dialy-coding/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sainath1754/LC-dialy-coding/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sainath1754/LC-dialy-coding/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
@@ -186,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sainath1754/LC-dialy-coding/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sainath1754/LC-dialy-coding/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sainath1754/LC-dialy-coding/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
