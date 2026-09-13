@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sainath1754/LC-dialy-coding/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sainath1754/LC-dialy-coding/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sainath1754/LC-dialy-coding/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sainath1754/LC-dialy-coding/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/sainath1754/LC-dialy-coding/tree/master/0200-number-of-islands) |
 | [0506-relative-ranks](https://github.com/sainath1754/LC-dialy-coding/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/0628-maximum-product-of-three-numbers) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sainath1754/LC-dialy-coding/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sainath1754/LC-dialy-coding/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sainath1754/LC-dialy-coding/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/sainath1754/LC-dialy-coding/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/sainath1754/LC-dialy-coding/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/0628-maximum-product-of-three-numbers) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sainath1754/LC-dialy-coding/tree/master/0200-number-of-islands) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sainath1754/LC-dialy-coding/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
