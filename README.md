@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sainath1754/LC-dialy-coding/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/sainath1754/LC-dialy-coding/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sainath1754/LC-dialy-coding/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sainath1754/LC-dialy-coding/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sainath1754/LC-dialy-coding/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/sainath1754/LC-dialy-coding/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sainath1754/LC-dialy-coding/tree/master/0238-product-of-array-except-self) |
@@ -208,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sainath1754/LC-dialy-coding/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sainath1754/LC-dialy-coding/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sainath1754/LC-dialy-coding/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
