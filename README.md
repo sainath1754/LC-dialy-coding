@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/2785-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sainath1754/LC-dialy-coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/sainath1754/LC-dialy-coding/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sainath1754/LC-dialy-coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainath1754/LC-dialy-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
