@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainath1754/LC-dialy-coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sainath1754/LC-dialy-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sainath1754/LC-dialy-coding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/sainath1754/LC-dialy-coding/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sainath1754/LC-dialy-coding/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/sainath1754/LC-dialy-coding/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sainath1754/LC-dialy-coding/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sainath1754/LC-dialy-coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sainath1754/LC-dialy-coding/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sainath1754/LC-dialy-coding/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sainath1754/LC-dialy-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sainath1754/LC-dialy-coding/tree/master/0213-house-robber-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
