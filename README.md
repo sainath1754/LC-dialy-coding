@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sainath1754/LC-dialy-coding/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/sainath1754/LC-dialy-coding/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/sainath1754/LC-dialy-coding/tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainath1754/LC-dialy-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/sainath1754/LC-dialy-coding/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sainath1754/LC-dialy-coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sainath1754/LC-dialy-coding/tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainath1754/LC-dialy-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sainath1754/LC-dialy-coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Interactive
 |  |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainath1754/LC-dialy-coding/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sainath1754/LC-dialy-coding/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
