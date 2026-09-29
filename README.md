@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/2785-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sainath1754/LC-dialy-coding/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sainath1754/LC-dialy-coding/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sainath1754/LC-dialy-coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
