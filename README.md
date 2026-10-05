@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/sainath1754/LC-dialy-coding/tree/master/0182-duplicate-emails) |
+| [1251-average-selling-price](https://github.com/sainath1754/LC-dialy-coding/tree/master/1251-average-selling-price) |
 ## Binary Search
 |  |
 | ------- |
